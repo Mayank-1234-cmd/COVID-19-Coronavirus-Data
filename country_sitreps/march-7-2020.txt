@@ -1,0 +1,104 @@
+All credit to https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+That site updated last at 3/7/2020, 8:13:14 AM.
+
+80,651 Mainland China
+7,041 South Korea
+4,747 Iran
+4,636 Italy
+696 Others
+670 Germany
+653 France
+420 Japan
+401 Spain
+340 US
+214 Switzerland
+164 UK
+130 Singapore
+128 Netherlands
+109 Belgium
+108 Norway
+108 Hong Kong
+101 Sweden
+83 Malaysia
+66 Austria
+63 Australia
+60 Bahrain
+58 Kuwait
+54 Canada
+50 Thailand
+48 Iraq
+45 United Arab Emirates
+45 Taiwan
+45 Iceland
+45 Greece
+31 India
+23 San Marino
+23 Denmark
+22 Palestine
+22 Lebanon
+21 Israel
+19 Czech Republic
+18 Vietnam
+18 Ireland
+17 Algeria
+16 Oman
+15 Finland
+15 Egypt
+13 Russia
+13 Portugal
+13 Brazil
+13 Ecuador
+12 Croatia
+10 Macau
+10 Estonia
+9 Azerbaijan
+9 Romania
+8 Argentina
+8 Qatar
+7 Slovenia
+6 Pakistan
+6 Philippines
+6 Belarus
+6 Mexico
+5 Saudi Arabia
+5 French Guiana
+5 New Zealand
+5 Poland
+4 Indonesia
+4 Senegal
+4 Chile
+4 Georgia
+4 Hungary
+3 Bosnia and Herzegovina
+3 Saint Barthelemy
+3 North Macedonia
+2 Dominican Republic
+2 Luxembourg
+2 Morocco
+2 Martinique
+1 Lithuania
+1 Cambodia
+1 Cameroon
+1 Monaco
+1 Afghanistan
+1 Slovakia
+1 Peru
+1 Togo
+1 Armenia
+1 Ukraine
+1 Vatican City
+1 South Africa
+1 Liechtenstein
+1 Faroe Islands
+1 Costa Rica
+1 Andorra
+1 Gibraltar
+1 Nigeria
+1 Tunisia
+1 Colombia
+1 Bhutan
+1 Nepal
+1 Jordan
+1 Latvia
+1 Serbia
+1 Sri Lanka
